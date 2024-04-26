@@ -1,4 +1,4 @@
-//Sociedad secreta
+//Primer ejercicio
 
 const res1 = [-1,5,6,,3];
 const res2 =[14,3,5,6];
@@ -24,8 +24,6 @@ function sumResistence2(arr) {
 sumResistence(res3);
 const try2 = sumResistence2(res1);
 console.log('${try2}');
-
-//Sociedad secreta
 
 // Sociedad secreta
 const member1 = ["Esperanza", "Franco", "Nia"];
